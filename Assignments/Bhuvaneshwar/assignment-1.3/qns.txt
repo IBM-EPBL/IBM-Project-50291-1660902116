@@ -1,0 +1,1 @@
+ Create sample program for Flask HTTP methods (list or map and perform operations of PUT,GET,DELETE and POST)
