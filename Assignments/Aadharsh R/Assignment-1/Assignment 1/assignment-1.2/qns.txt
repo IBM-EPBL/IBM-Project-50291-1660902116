@@ -1,0 +1,1 @@
+For CSS create external style sheet for above task(sepaarte css file and link that in html)
