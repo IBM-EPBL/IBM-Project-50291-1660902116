@@ -1,0 +1,14 @@
+4. Why python is a popular language? 
+    -Easy and Simple
+    -Efficient
+    -Diverse libraries and frameworks
+    -verstile
+    -vast community
+    -portable & extensible
+    -flexible
+
+5. What are the other frameworks that can be used with python?
+    Django, Pyramid, TurboGears, CherryPy, Flask.
+
+6. WSGI full-form?
+    Webserver Gateway Interface
