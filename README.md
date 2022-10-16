@@ -2,7 +2,7 @@
 Inventory Managment System for Retailers
 
 # TEAM MEMEBERS
-[1] Aadharsh R\n
+[1] Aadharsh R
 [2] Bhuvaneshwar S
 [3] DheepakRaaj
 [4] Jyotir Aditya Giri
