@@ -2,6 +2,4 @@
 
 ## OUTPUT
 
-Chatbot - IBM Watson Assistant
-
-![image](https://user-images.githubusercontent.com/64410018/196338430-1e26f608-9cf5-4993-8e78-729fcead08d1.png)
+![image](https://user-images.githubusercontent.com/64410018/196344781-37038ddb-b978-4cd5-a9a6-145bea788bde.png)
