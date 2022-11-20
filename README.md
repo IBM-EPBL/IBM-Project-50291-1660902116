@@ -1,5 +1,6 @@
-# IBM-Project-50291-1660902116
-Inventory Managment System for Retailers
+# IBM-Project-50291-1660902116 - Inventory Managment System for Retailers
+
+# TEAM ID - PNT2022TMID35259
 
 # TEAM MEMEBERS
 
