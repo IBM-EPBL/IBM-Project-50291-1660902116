@@ -26,23 +26,33 @@ Once retailers successfully log in to the application they can update their inve
 # SKILL REQUIRED
 
 [+] IBM Cloud
+
 [+] HTML
+
 [+] Javascript
+
 [+] IBM Cloud Object Storage
+
 [+] Python-Flask
+
 [+] Kubernetes
+
 [+] Docker
+
 [+] IBM DB2
+
 [+] IBM Container Registry
+
 
 # TECHNICAL ARCHITECTURE
 
 ![image](https://user-images.githubusercontent.com/64410018/196022345-ab90f4a1-df7c-450e-ae1d-678a4ceb9784.png)
 
-## Live Application Deployed on Kubernetes Link (Expire on 36-12-2022) - 
 
-http://159.122.187.155:32441/home
+## Output
 
-# DEMO LINk
+Live Application Deployed on Kubernetes Link - http://159.122.187.155:32441/home
 
-https://annauniv0-my.sharepoint.com/:v:/g/personal/2019103513_student_annauniv_edu/EXt46pYh2vlPq2pdqi5fdboBDOBW2T7d_XOxJKhS4khIng?e=0EW2eN
+Demo Link : https://annauniv0-my.sharepoint.com/✌️/g/personal/2019103513_student_annauniv_edu/EXt46pYh2vlPq2pdqi5fdboBDOBW2T7d_XOxJKhS4khIng?e=0EW2eN
+
+Project Report : https://annauniv0-my.sharepoint.com/🅱️/g/personal/2019103513_student_annauniv_edu/EfJ1TG-VEBlKp0VE4q3ns-QBZhonD007dv1zQr8vMujRHw?e=mJtePS
