@@ -39,7 +39,7 @@ Once retailers successfully log in to the application they can update their inve
 
 ![image](https://user-images.githubusercontent.com/64410018/196022345-ab90f4a1-df7c-450e-ae1d-678a4ceb9784.png)
 
-# Live Application Deployed on Kubernetes Link (Expire on 36-12-2022) - 
+## Live Application Deployed on Kubernetes Link (Expire on 36-12-2022) - 
 
 http://159.122.187.155:32441/home
 
